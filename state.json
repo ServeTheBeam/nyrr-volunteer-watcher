@@ -1,5 +1,784 @@
 {
- "checked_at": "2026-06-13T05:04:48+00:00",
- "discovery_failures": 165,
- "events": {}
+ "checked_at": "2026-06-13T06:40:01+00:00",
+ "discovery_failures": 0,
+ "events": {
+  "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
+   "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
+   "roles": {
+    "Event Support (No +1)": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/achilles-hope-possibility-4m-presented-by-td-bank-volunteers": {
+   "name": "Achilles Hope &amp; Possibility 4M Presented by TD - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Jump Team": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medals Distribution": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/citizens-queens-10k-volunteers": {
+   "name": "Citizens Queens 10K - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Green Team": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Jump Team": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medals Distribution": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/f4b3036f56de0115c0ab": {
+   "name": "NYRR Unlock 26.2 x New Balance",
+   "roles": {
+    "NYRR Unlock 26.2 x New Balance | Central Park": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "NYRR Unlock 26.2 x New Balance | Prospect Park": {
+     "nine_one": false,
+     "status": "NEA"
+    }
+   }
+  },
+  "https://events.nyrr.org/front-runners-new-york-lgbt-pride-run-volunteers": {
+   "name": "Front Runners New York LGBT Pride Run (4M) - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Jump Team": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/grete-s-great-gallop-10k-volunteers": {
+   "name": "Grete&#x27;s Great Gallop 10K - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medical Volunteers (Must be licensed in NYS)": {
+     "nine_one": true,
+     "status": "MED"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/new-balance-5th-avenue-mile-volunteers": {
+   "name": "New Balance 5th Avenue Mile - Volunteers",
+   "roles": {
+    "Course Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Finish Area Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Finish Area NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start Area Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start Area NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start Corral Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/new-balance-bronx-10m-volunteers": {
+   "name": "New Balance Bronx 10M - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station 1 and 4": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station 2": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station 3": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station 5": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Green Team": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medals Distribution": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medical Volunteers - Must be licensed in NYS": {
+     "nine_one": true,
+     "status": "MED"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/nyrr-retro-4-miler-volunteers": {
+   "name": "9/11 Memorial &amp; Museum 4M - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/nyrr-summer-speed-series-1-volunteers": {
+   "name": "NYRR Summer Speed Series #1 - Volunteers",
+   "roles": {
+    "Track and Field Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/nyrr-summer-speed-series-2-volunteers": {
+   "name": "NYRR Summer Speed Series #2 - Volunteers",
+   "roles": {
+    "Track and Field Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/nyrr-summer-speed-series-3-volunteers": {
+   "name": "NYRR Summer Speed Series #3 - Volunteers",
+   "roles": {
+    "Track and Field Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/nyrr-summer-speed-series-4-volunteers": {
+   "name": "NYRR Summer Speed Series: Community Night - Volunteers",
+   "roles": {
+    "Track and Field Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/nyrr-summer-speed-series-5-volunteers": {
+   "name": "NYRR Summer Speed Series Championships - Volunteers",
+   "roles": {
+    "Track and Field Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/nyrr-team-champions-5m-volunteers": {
+   "name": "NYRR Team Champs 5M - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/percy-sutton-harlem-5k-volunteers": {
+   "name": "Percy Sutton Harlem 5K - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medical Volunteers (Must be licensed in NYS)": {
+     "nine_one": true,
+     "status": "MED"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/tcs-new-york-city-marathon-course-volunteers": {
+   "name": "TCS New York City Marathon - Course Volunteers",
+   "roles": {
+    "Brooklyn Gel Zone Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Manhattan Gel Zone Volunteer": {
+     "nine_one": false,
+     "status": "NEA"
+    },
+    "Mile 10 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 11 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 12 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 13 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 14 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 15 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 16 Volunteer": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "Mile 17 Volunteer": {
+     "nine_one": false,
+     "status": "NEA"
+    },
+    "Mile 18 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 19 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 20 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 21 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 22 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 23 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 24 Volunteer": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "Mile 25 Volunteer": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "Mile 3A Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 3B Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 4 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 6 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    },
+    "Mile 8 Volunteer": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/tcs-new-york-city-marathon-medical-volunteers": {
+   "name": "TCS New York City Marathon - Medical Volunteers",
+   "roles": {
+    "Athletic Trainer": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "EMT &amp; EMT-P (Paramedic)": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Medical  - Spotter Tower Volunteer": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Nursing Professional - Registered Nurse, Nurse Practitioner &amp; Licensed Practical Nurse": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Pharmacist": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Physician - Attending, Fellow &amp; Resident": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Physician Assistant": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Student - Medical Volunteer": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Therapist - Occupational Therapist, Occupational Therapy Assistant, Respiratory Therapist": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Therapist - Physical Therapist, Licensed Massage Therapist, Physical Therapy Assistant": {
+     "nine_one": false,
+     "status": "MED"
+    }
+   }
+  },
+  "https://events.nyrr.org/tcs-new-york-city-marathon-post-finish-volunteers": {
+   "name": "TCS New York City Marathon - Post Finish Volunteers",
+   "roles": {
+    "FINISH Bag Check": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH Central Park Runner Exit": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH Green Team": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH Jump Team": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH Marathon Ambassador": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH Poncho Distribution": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH Recovery Bag Distribution": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH VIP Hospitality": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "FINISH Walk-Off Marshal": {
+     "nine_one": false,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/tcs-new-york-city-marathon-start-volunteers": {
+   "name": "TCS New York City Marathon - Start Volunteers",
+   "roles": {
+    "START  Bridge Gate Support (Background Check REQUIRED)": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Bus Unloading": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Clothing Collection": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Corral BLUE": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Corral ORANGE": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Green Team": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Hospitality": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START NYRR Ambassadors": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Silver Charity Village": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Village BLUE": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Village ORANGE": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Village PINK": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "START Volunteer Support": {
+     "nine_one": true,
+     "status": "SOL"
+    }
+   }
+  },
+  "https://events.nyrr.org/tcs-new-york-city-marathon-training-series-12m-volunteers": {
+   "name": "TCS New York City Marathon Training Series 12M - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medical Volunteers (Must be licensed in NYS)": {
+     "nine_one": true,
+     "status": "MED"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  },
+  "https://events.nyrr.org/tcs-new-york-city-training-series-18m-volunteers": {
+   "name": "TCS New York City Marathon Training Series 18M - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Medical Volunteers (Must be licensed in NYS)": {
+     "nine_one": true,
+     "status": "MED"
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Volunteer Leaders and Leaders in Training": {
+     "nine_one": false,
+     "status": "AVL"
+    }
+   }
+  }
+ }
 }
