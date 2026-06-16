@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-06-16T18:02:23+00:00",
+ "checked_at": "2026-06-16T19:29:14+00:00",
  "discovery_failures": 0,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
@@ -67,11 +67,19 @@
      "nine_one": true,
      "status": "SOL"
     },
+    "Course Marshal": {
+     "nine_one": true,
+     "status": "SOL"
+    },
     "Fluid Station": {
      "nine_one": true,
      "status": "SOL"
     },
     "Green Team": {
+     "nine_one": true,
+     "status": "SOL"
+    },
+    "Jump Team": {
      "nine_one": true,
      "status": "SOL"
     },
