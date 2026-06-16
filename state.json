@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-06-16T00:07:12+00:00",
+ "checked_at": "2026-06-16T01:32:32+00:00",
  "discovery_failures": 0,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
@@ -77,7 +77,7 @@
     },
     "Jump Team": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Medals Distribution": {
      "nine_one": true,
@@ -173,10 +173,6 @@
     "Fluid Station North": {
      "nine_one": true,
      "status": "SOL"
-    },
-    "Medical Volunteers (Must be licensed in NYS)": {
-     "nine_one": true,
-     "status": "MED"
     },
     "NYRR Ambassador": {
      "nine_one": true,
@@ -427,10 +423,6 @@
     "Fluid Station": {
      "nine_one": true,
      "status": "SOL"
-    },
-    "Medical Volunteers (Must be licensed in NYS)": {
-     "nine_one": true,
-     "status": "MED"
     },
     "NYRR Ambassador": {
      "nine_one": true,
@@ -712,10 +704,6 @@
     "Fluid Station South": {
      "nine_one": true,
      "status": "SOL"
-    },
-    "Medical Volunteers (Must be licensed in NYS)": {
-     "nine_one": true,
-     "status": "MED"
     },
     "NYRR Ambassador": {
      "nine_one": true,
