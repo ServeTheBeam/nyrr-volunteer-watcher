@@ -35,11 +35,11 @@ jobs:
         run: |
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
-
+    
       - name: Run watcher
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          NTFY_EMAIL: jeffreyschwartz@yahoo.com
+          NTFY_EMAIL: ${{ secrets.NTFY_EMAIL }}
           ONLY_NINE_PLUS_ONE: "true"
         run: python check.py
 
