@@ -39,6 +39,7 @@ jobs:
       - name: Run watcher
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_EMAIL: jeffreyschwartz@yahoo.com
           ONLY_NINE_PLUS_ONE: "true"
         run: python check.py
 
