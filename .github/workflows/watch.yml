@@ -34,6 +34,14 @@ jobs:
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
 
+      - name: Test ntfy notification
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          test -n "$NTFY_TOPIC" || (echo "NTFY_TOPIC secret is empty/missing" && exit 1)
+          curl -fsS -d "NYRR watcher test from GitHub Actions" "https://ntfy.sh/$NTFY_TOPIC"
+
       - name: Run watcher
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
