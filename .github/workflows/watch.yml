@@ -9,6 +9,10 @@ permissions:
   contents: write             # to commit state.json back
 
 concurrency:
+  group: nyrr-volunteer-watcher
+  cancel-in-progress: false
+  
+concurrency:
   group: nyrr-watch
   cancel-in-progress: false
 
@@ -42,7 +46,9 @@ jobs:
 
       - name: Commit state if changed
         run: |
-          git config user.name "nyrr-watcher-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add state.json
-          git diff --staged --quiet || git commit -m "state: $(date -u +%Y-%m-%dT%H:%M)" && git push
+          git config user.email "nyrr-watcher-bot@users.noreply.github.com"
+          git add .
+          git commit -m "state: $(date -u +'%Y-%m-%dT%H:%M')" || exit 0
+          git pull --rebase origin main
+          git push origin main
+          
