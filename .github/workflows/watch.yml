@@ -38,50 +38,6 @@ jobs:
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
 
-      - name: Test secrets and ntfy push
-        if: github.event_name == 'workflow_dispatch'
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: |
-          test -n "$NTFY_TOPIC" || (echo "NTFY_TOPIC is empty/missing" && exit 1)
-          test -n "$EMAIL_TO" || (echo "EMAIL_TO is empty/missing" && exit 1)
-          test -n "$GMAIL_APP_PASSWORD" || (echo "GMAIL_APP_PASSWORD is empty/missing" && exit 1)
-
-          curl -fsS \
-            -H "Title: NYRR Watcher Test" \
-            -H "Priority: high" \
-            -d "GitHub Actions test: ntfy push is working." \
-            "https://ntfy.sh/$NTFY_TOPIC"
-
-      - name: Test Gmail SMTP email
-        if: github.event_name == 'workflow_dispatch'
-        env:
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: |
-          python - <<'PY'
-          import os
-          import smtplib
-          from email.message import EmailMessage
-
-          email_to = os.environ["EMAIL_TO"]
-          app_password = os.environ["GMAIL_APP_PASSWORD"]
-
-          msg = EmailMessage()
-          msg["Subject"] = "NYRR Watcher Gmail Test"
-          msg["From"] = email_to
-          msg["To"] = email_to
-          msg.set_content("GitHub Actions test: Gmail SMTP email is working.")
-
-          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
-              smtp.login(email_to, app_password)
-              smtp.send_message(msg)
-
-          print("Gmail SMTP test email sent.")
-          PY
-
       - name: Run watcher
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
