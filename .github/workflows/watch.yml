@@ -35,7 +35,18 @@ jobs:
         run: |
           pip install --quiet playwright
           python -m playwright install --with-deps chromium
-    
+  
+      - name: Test ntfy email
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_EMAIL: ${{ secrets.NTFY_EMAIL }}
+        run: |
+          curl \
+            -H "Email: $NTFY_EMAIL" \
+            -H "Title: NYRR Email Test" \
+            -d "If you received this, email notifications work." \
+            https://ntfy.sh/$NTFY_TOPIC
+
       - name: Run watcher
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
