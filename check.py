@@ -4,9 +4,11 @@
 import json
 import os
 import re
+import smtplib
 import sys
 import urllib.request
 from datetime import datetime, timezone
+from email.message import EmailMessage
 
 LISTING_URL = "https://www.nyrr.org/getinvolved/volunteeropportunities"
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
@@ -16,8 +18,11 @@ UA = (
 )
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
-NTFY_EMAIL = os.environ.get("NTFY_EMAIL", "").strip()
 ONLY_NINE_PLUS_ONE = os.environ.get("ONLY_NINE_PLUS_ONE", "true").lower() != "false"
+
+EMAIL_TO = os.environ.get("EMAIL_TO", "").strip()
+GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "").strip()
+
 MAX_DISCOVERY_FAILURES_BEFORE_ALERT = 8
 
 
@@ -78,25 +83,41 @@ def notify(title: str, message: str, priority: str = "high") -> None:
         log(f"NTFY_TOPIC not set — would have notified: {title} / {message}")
         return
 
-    headers = {
-        "Title": title,
-        "Priority": priority,
-        "Tags": "running",
-        "Click": LISTING_URL,
-    }
-
-    if NTFY_EMAIL:
-        headers["Email"] = NTFY_EMAIL
-
     req = urllib.request.Request(
         f"https://ntfy.sh/{NTFY_TOPIC}",
         data=message.encode("utf-8"),
-        headers=headers,
+        headers={
+            "Title": title,
+            "Priority": priority,
+            "Tags": "running",
+            "Click": LISTING_URL,
+        },
         method="POST",
     )
 
     with urllib.request.urlopen(req, timeout=30) as resp:
-        log(f"notified ({resp.status}): {title}")
+        log(f"ntfy notified ({resp.status}): {title}")
+
+
+def send_email(subject: str, body: str) -> None:
+    if not EMAIL_TO or not GMAIL_APP_PASSWORD:
+        log("email not configured")
+        return
+
+    msg = EmailMessage()
+    msg["Subject"] = subject
+    msg["From"] = EMAIL_TO
+    msg["To"] = EMAIL_TO
+    msg.set_content(body)
+
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
+            smtp.login(EMAIL_TO, GMAIL_APP_PASSWORD)
+            smtp.send_message(msg)
+
+        log(f"email sent: {subject}")
+    except Exception as e:
+        log(f"email failed: {e}")
 
 
 def main() -> int:
@@ -118,12 +139,13 @@ def main() -> int:
         )
 
         if state["discovery_failures"] == MAX_DISCOVERY_FAILURES_BEFORE_ALERT:
-            notify(
-                "NYRR watcher: discovery degraded",
+            title = "NYRR watcher: discovery degraded"
+            body = (
                 "The listing page hasn't been reachable for a while; watching "
-                "previously known events only. New events may be missed.",
-                priority="default",
+                "previously known events only. New events may be missed."
             )
+            notify(title, body, priority="default")
+            send_email(title, body)
     else:
         state["discovery_failures"] = 0
         log(f"discovered {len(urls)} event URLs")
@@ -157,10 +179,11 @@ def main() -> int:
                 alerts.append(f"{parsed['name']}: {role} ({credit}) — {url}")
 
     if alerts:
-        notify(
-            f"NYRR volunteer slot{'s' if len(alerts) > 1 else ''} open!",
-            "\n".join(alerts),
-        )
+        title = f"NYRR volunteer slot{'s' if len(alerts) > 1 else ''} open!"
+        body = "\n".join(alerts)
+
+        notify(title, body)
+        send_email(title, body)
     else:
         log("no newly available roles")
 
