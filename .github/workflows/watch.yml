@@ -9,11 +9,8 @@ permissions:
   contents: write             # to commit state.json back
 
 concurrency:
-  group: nyrr-volunteer-watcher
-  cancel-in-progress: false
-  
-concurrency:
   group: nyrr-watch
+  group: nyrr-volunteer-watcher
   cancel-in-progress: false
 
 jobs:
