@@ -41,11 +41,15 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_EMAIL: ${{ secrets.NTFY_EMAIL }}
         run: |
-          curl \
+          test -n "$NTFY_TOPIC" || (echo "NTFY_TOPIC is empty/missing" && exit 1)
+          test -n "$NTFY_EMAIL" || (echo "NTFY_EMAIL is empty/missing" && exit 1)
+
+          curl -fsS \
             -H "Email: $NTFY_EMAIL" \
             -H "Title: NYRR Email Test" \
+            -H "Priority: high" \
             -d "If you received this, email notifications work." \
-            https://ntfy.sh/$NTFY_TOPIC
+            "https://ntfy.sh/$NTFY_TOPIC"
 
       - name: Run watcher
         env:
