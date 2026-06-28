@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-06-28T14:17:37+00:00",
- "discovery_failures": 90,
+ "checked_at": "2026-06-28T15:51:23+00:00",
+ "discovery_failures": 91,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -16,47 +16,47 @@
    "roles": {
     "Bag Check": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Jump Team": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Medals Distribution": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "NYRR Ambassador": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Start and Finish": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Youth Event Assistant": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     }
    }
   },
@@ -397,7 +397,7 @@
     },
     "NYRR Ambassador": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Post-Race Amenities": {
      "nine_one": true,
@@ -426,7 +426,7 @@
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "NYRR Ambassador": {
      "nine_one": true,
