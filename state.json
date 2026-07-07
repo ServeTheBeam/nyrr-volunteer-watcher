@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-07T21:42:49+00:00",
- "discovery_failures": 192,
+ "checked_at": "2026-07-07T22:46:06+00:00",
+ "discovery_failures": 193,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -455,7 +455,7 @@
     },
     "Manhattan Gel Zone Volunteer": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     },
     "Mile 10 Volunteer": {
      "nine_one": false,
