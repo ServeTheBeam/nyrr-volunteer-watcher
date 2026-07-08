@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-08T20:22:02+00:00",
- "discovery_failures": 204,
+ "checked_at": "2026-07-08T21:42:45+00:00",
+ "discovery_failures": 205,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -455,7 +455,7 @@
     },
     "Manhattan Gel Zone Volunteer": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Mile 10 Volunteer": {
      "nine_one": false,
@@ -487,7 +487,7 @@
     },
     "Mile 17 Volunteer": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Mile 18 Volunteer": {
      "nine_one": false,
@@ -519,7 +519,7 @@
     },
     "Mile 25 Volunteer": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Mile 3A Volunteer": {
      "nine_one": false,
@@ -589,15 +589,15 @@
    "roles": {
     "FINISH Bag Check": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Central Park Runner Exit": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Green Team": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Jump Team": {
      "nine_one": false,
@@ -613,7 +613,7 @@
     },
     "FINISH Recovery Bag Distribution": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH VIP Hospitality": {
      "nine_one": false,
@@ -621,7 +621,7 @@
     },
     "FINISH Walk-Off Marshal": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     }
    }
   },
