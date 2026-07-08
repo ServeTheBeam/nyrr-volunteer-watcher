@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-08T11:33:14+00:00",
- "discovery_failures": 199,
+ "checked_at": "2026-07-08T13:17:43+00:00",
+ "discovery_failures": 200,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -323,7 +323,7 @@
     },
     "Start and Finish": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     }
    }
   },
@@ -393,7 +393,7 @@
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "NYRR Ambassador": {
      "nine_one": true,
