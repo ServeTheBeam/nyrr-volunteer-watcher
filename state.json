@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-10T18:03:11+00:00",
- "discovery_failures": 223,
+ "checked_at": "2026-07-10T21:07:09+00:00",
+ "discovery_failures": 224,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -609,7 +609,7 @@
     },
     "FINISH Recovery Bag Distribution": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     },
     "FINISH VIP Hospitality": {
      "nine_one": false,
