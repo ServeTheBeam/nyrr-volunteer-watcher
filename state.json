@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-14T19:21:33+00:00",
- "discovery_failures": 281,
+ "checked_at": "2026-07-14T20:39:49+00:00",
+ "discovery_failures": 282,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -114,7 +114,7 @@
     },
     "NYRR Unlock 26.2 x New Balance | Prospect Park": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     }
    }
   },
@@ -328,7 +328,7 @@
    "roles": {
     "Track and Field Marshal": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     }
    }
   },
@@ -585,7 +585,7 @@
    "roles": {
     "FINISH Bag Check": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     },
     "FINISH Central Park Runner Exit": {
      "nine_one": false,
@@ -617,7 +617,7 @@
     },
     "FINISH Walk-Off Marshal": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "NEA"
     }
    }
   },
