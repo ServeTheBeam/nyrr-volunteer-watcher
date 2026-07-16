@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-16T20:13:55+00:00",
- "discovery_failures": 310,
+ "checked_at": "2026-07-16T21:19:09+00:00",
+ "discovery_failures": 311,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -196,7 +196,7 @@
     },
     "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     }
    }
   },
@@ -546,6 +546,10 @@
   "https://events.nyrr.org/tcs-new-york-city-marathon-medical-volunteers": {
    "name": "TCS New York City Marathon - Medical Volunteers",
    "roles": {
+    "Additional Professions": {
+     "nine_one": false,
+     "status": "MED"
+    },
     "Athletic Trainer": {
      "nine_one": false,
      "status": "MED"
