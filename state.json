@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-22T18:43:37+00:00",
- "discovery_failures": 395,
+ "checked_at": "2026-07-22T20:01:29+00:00",
+ "discovery_failures": 396,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -558,15 +558,15 @@
      "nine_one": false,
      "status": "MED"
     },
-    "Mental Health Professional - (Psychiatrist/Clinical Psychologist/Therapist)": {
-     "nine_one": false,
-     "status": "MED"
-    },
     "Pharmacist": {
      "nine_one": false,
      "status": "NEA"
     },
     "Physician - Attending &amp; Fellow": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Podiatrist": {
      "nine_one": false,
      "status": "MED"
     },
