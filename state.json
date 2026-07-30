@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-07-30T04:22:12+00:00",
- "discovery_failures": 493,
+ "checked_at": "2026-07-30T07:14:11+00:00",
+ "discovery_failures": 494,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -612,7 +612,7 @@
     },
     "FINISH Walk-Off Marshal": {
      "nine_one": false,
-     "status": "NEA"
+     "status": "SOL"
     }
    }
   },
