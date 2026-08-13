@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-13T16:02:23+00:00",
- "discovery_failures": 741,
+ "checked_at": "2026-08-13T17:13:35+00:00",
+ "discovery_failures": 742,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -623,11 +623,11 @@
   "https://events.nyrr.org/tcs-new-york-city-marathon-start-volunteers": {
    "name": "TCS New York City Marathon - Start Volunteers",
    "roles": {
-    "START  Bridge Gate Support (Background Check REQUIRED)": {
+    "START Bridge Gate Marshal (Background Check REQUIRED)": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
-    "START Bus Unloading": {
+    "START Bus Marshal": {
      "nine_one": true,
      "status": "SOL"
     },
@@ -647,23 +647,23 @@
      "nine_one": true,
      "status": "SOL"
     },
-    "START Hospitality": {
-     "nine_one": true,
-     "status": "SOL"
-    },
     "START NYRR Ambassadors": {
      "nine_one": true,
      "status": "SOL"
     },
-    "START Silver Charity Village": {
+    "START VIP Hospitality": {
      "nine_one": true,
      "status": "SOL"
     },
-    "START Village BLUE": {
+    "START Village Amenities - Blue": {
      "nine_one": true,
      "status": "SOL"
     },
-    "START Village ORANGE": {
+    "START Village Amenities - Orange": {
+     "nine_one": true,
+     "status": "NEA"
+    },
+    "START Village Amenities - Silver Charity": {
      "nine_one": true,
      "status": "SOL"
     },
