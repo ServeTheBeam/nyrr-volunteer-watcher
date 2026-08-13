@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-13T17:13:35+00:00",
- "discovery_failures": 742,
+ "checked_at": "2026-08-13T18:09:23+00:00",
+ "discovery_failures": 743,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -625,7 +625,7 @@
    "roles": {
     "START Bridge Gate Marshal (Background Check REQUIRED)": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "START Bus Marshal": {
      "nine_one": true,
@@ -661,7 +661,7 @@
     },
     "START Village Amenities - Orange": {
      "nine_one": true,
-     "status": "NEA"
+     "status": "SOL"
     },
     "START Village Amenities - Silver Charity": {
      "nine_one": true,
