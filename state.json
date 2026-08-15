@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-15T10:59:59+00:00",
- "discovery_failures": 789,
+ "checked_at": "2026-08-15T11:28:22+00:00",
+ "discovery_failures": 790,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -350,12 +350,7 @@
   },
   "https://events.nyrr.org/nyrr-summer-speed-series-3-volunteers": {
    "name": "NYRR Summer Speed Series #3 - Volunteers",
-   "roles": {
-    "Track and Field Marshal": {
-     "nine_one": true,
-     "status": "SOL"
-    }
-   }
+   "roles": {}
   },
   "https://events.nyrr.org/nyrr-summer-speed-series-4-volunteers": {
    "name": "NYRR Summer Speed Series: Community Night - Volunteers",
