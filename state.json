@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-20T19:57:57+00:00",
- "discovery_failures": 986,
+ "checked_at": "2026-08-20T20:29:54+00:00",
+ "discovery_failures": 987,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -656,7 +656,7 @@
     },
     "START Clothing Collection": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "AVL"
     },
     "START Corral Marshal - Blue": {
      "nine_one": true,
