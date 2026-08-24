@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-24T11:29:39+00:00",
- "discovery_failures": 1121,
+ "checked_at": "2026-08-24T11:57:39+00:00",
+ "discovery_failures": 1122,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -290,7 +290,7 @@
     },
     "NYRR Ambassador": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "NEA"
     },
     "Post-Race Amenities": {
      "nine_one": true,
