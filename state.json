@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-08-25T12:17:38+00:00",
- "discovery_failures": 1155,
+ "checked_at": "2026-08-25T13:29:54+00:00",
+ "discovery_failures": 1156,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -572,15 +572,23 @@
      "nine_one": false,
      "status": "MED"
     },
+    "Occupational Therapist &amp; Occupational Therapy Assistant": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Physical Therapist, Licensed Massage Therapist, Physical Therapy Assistant": {
+     "nine_one": false,
+     "status": "MED"
+    },
+    "Physician - Attending &amp; Fellow (Cardio, EM, Trauma, GP, etc.)": {
+     "nine_one": false,
+     "status": "SOL"
+    },
+    "Physician Assistant": {
+     "nine_one": false,
+     "status": "MED"
+    },
     "Resident": {
-     "nine_one": false,
-     "status": "MED"
-    },
-    "Therapist - Occupational Therapist &amp; Occupational Therapy Assistant": {
-     "nine_one": false,
-     "status": "MED"
-    },
-    "Therapist - Physical Therapist, Licensed Massage Therapist, Physical Therapy Assistant": {
      "nine_one": false,
      "status": "MED"
     }
