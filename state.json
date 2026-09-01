@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-01T17:59:59+00:00",
- "discovery_failures": 1218,
+ "checked_at": "2026-09-01T20:56:09+00:00",
+ "discovery_failures": 1219,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -578,7 +578,7 @@
     },
     "Physical Therapist, Licensed Massage Therapist, Physical Therapy Assistant": {
      "nine_one": false,
-     "status": "MED"
+     "status": "NEA"
     },
     "Physician - Attending &amp; Fellow (Cardio, EM, Trauma, GP, etc.)": {
      "nine_one": false,
@@ -668,7 +668,7 @@
     },
     "START Village Amenities - Blue": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "REG"
     },
     "START Village Amenities - Orange": {
      "nine_one": true,
