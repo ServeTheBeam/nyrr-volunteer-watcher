@@ -1,6 +1,6 @@
 {
- "checked_at": "2026-09-13T06:36:08+00:00",
- "discovery_failures": 1302,
+ "checked_at": "2026-09-13T12:19:49+00:00",
+ "discovery_failures": 1303,
  "events": {
   "https://events.nyrr.org/2026-toyota-usatf-outdoor-para-national-championships-volunteers": {
    "name": "2026 Toyota USATF Outdoor &amp; Para National Championships - Volunteers",
@@ -213,11 +213,11 @@
    "roles": {
     "Course Marshal": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Finish Area Bag Check": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Finish Area Jump Team": {
      "nine_one": true,
@@ -225,15 +225,15 @@
     },
     "Finish Area NYRR Ambassador": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Start Area Bag Check": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Start Area Jump Team": {
      "nine_one": true,
@@ -241,15 +241,15 @@
     },
     "Start Area NYRR Ambassador": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Start Corral Marshal": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     },
     "Youth Event Assistant": {
      "nine_one": true,
-     "status": "SOL"
+     "status": "END"
     }
    }
   },
