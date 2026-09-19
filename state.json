@@ -1,41 +1,1132 @@
 {
- "checked_at": "2026-09-19T00:28:46+00:00",
- "discovery_failures": 5,
+ "checked_at": "2026-09-19T00:17:57+00:00",
  "events": {
-  "https://events.nyrr.org/435525f3d6d28f467f7e": {
-   "name": "New Balance Bronx 10 Mile",
+  "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
+   "name": "Abbott Dash to the Finish Line 5K - Volunteers",
    "roles": {
-    "Eligible for 9+1 and 4 Out of 6 Credit \u2013 New Balance Bronx 10 Mile": {
-     "nine_one": false,
-     "status": "SOL"
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
     },
-    "NOT ELIGIBLE for 9+1 and 4 Out of 6 Credit \u2013 New Balance Bronx 10 Mile": {
+    "Course Marshal - Central Park and Midtown North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal - Midtown": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start Corral Marshal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Walk-Off Marshal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
     }
    }
   },
-  "https://events.nyrr.org/5c2d3d0d31e056929917": {
-   "name": "TCS New York City Marathon Training Series 18M",
+  "https://www.nyrr.org/races-and-events/2026/new-balance-bronx-10m-volunteers": {
+   "name": "New Balance Bronx 10M - Volunteers",
    "roles": {
-    "Eligible for 9+1 Credit \u2013 TCS New York City Marathon Training Series 18M": {
-     "nine_one": false,
-     "status": "SOL"
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
     },
-    "NOT ELIGIBLE for 9+1 Credit \u2013 TCS New York City Marathon Training Series 18M": {
+    "Fluid Station 1 and 4": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station 2": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station 3": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station 5": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Green Team": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medals Distribution": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "SOL"
+     "status": "registration-closed",
+     "tags": [
+      "No +1",
+      "9+1 Credit",
+      "4 Out of 6 Credit",
+      "Finisher Medals",
+      "Club Points",
+      "Scored",
+      "Prize Money",
+      "Team for Kids",
+      "Finisher Medals",
+      "Wave Starts",
+      "Youth Events - Stage 1",
+      "Youth Events - Stage 2",
+      "Youth Events - Stage 3",
+      "Youth"
+     ]
+    },
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
     }
    }
   },
-  "https://events.nyrr.org/cb17aa431224ef58ce77": {
-   "name": "2027 9+1 Pass Program",
+  "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-1-volunteers": {
+   "name": "NYRR Cross Country Series #1 - Volunteers",
    "roles": {
-    "APPLICATION: 9+1 Pass Program": {
+    "Cross Country Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1",
+      "Scored",
+      "Cross Country",
+      "Youth Events",
+      "Youth Events - Stage 1",
+      "Youth Events - Stage 2",
+      "Youth Events - Stage 3",
+      "Cross Country",
+      "Youth"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-2-volunteers": {
+   "name": "NYRR Cross Country Series #2 - Volunteers",
+   "roles": {
+    "Cross Country Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1",
+      "Scored",
+      "Cross Country",
+      "Youth Events",
+      "Youth Events - Stage 1",
+      "Youth Events - Stage 2",
+      "Youth Events - Stage 3",
+      "Cross Country",
+      "Youth"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
+   "name": "NYRR Cross Country Series #3 - Volunteers",
+   "roles": {
+    "Cross Country Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1",
+      "Scored",
+      "Cross Country",
+      "Youth Events",
+      "Finisher Medals",
+      "Youth Events - Stage 1",
+      "Youth Events - Stage 2",
+      "Youth Events - Stage 3",
+      "Cross Country",
+      "Youth"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-frosty-5k-volunteers": {
+   "name": "NYRR Frosty 5K - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "MEM"
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-jersey-city-5k-volunteers": {
+   "name": "NYRR Jersey City 5K - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Transportation Marshal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-midnight-run-volunteers": {
+   "name": "NYRR Midnight Run - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1",
+      "9+1 Credit",
+      "Scored"
+     ]
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-staten-island-half-volunteers": {
+   "name": "NYRR Staten Island Half - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Green Team": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medals Distribution": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medical Volunteers (Must be licensed in NYS)": {
+     "nine_one": true,
+     "status": "available",
+     "tags": [
+      "medical",
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-ted-corbitt-15k-volunteers": {
+   "name": "NYRR Ted Corbitt 15K - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medals Distribution": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/open-run-volunteers": {
+   "name": "Open Run - Volunteers",
+   "roles": {
+    "Astoria Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Baisley Pond Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Brooklyn Bridge Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Canarsie Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Conference House Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Crocheron Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Cunningham Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Flushing Meadows Corona Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Highland Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Inwood Hill Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Lincoln Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Marine Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Morningside Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Shore Road Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "Soundview Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    },
+    "St. Mary\u2019s Park": {
+     "nine_one": false,
+     "status": "available",
+     "tags": []
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/post-marathon-week-volunteers": {
+   "name": "Post-Marathon Week - Volunteers",
+   "roles": {
+    "Central Park Green Team": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Marathon Monday Ambassador - Pavilion": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Marathon Monday Ambassador - RUN CENTER": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Marathon Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/pre-marathon-support-volunteers": {
+   "name": "Pre-Marathon Support - Volunteers",
+   "roles": {
+    "Expo Bib Support": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Training Support": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/race-to-deliver-4m-to-benefit-gods-love-we-deliver-volunteers": {
+   "name": "Race to Deliver 4M to Benefit God's Love We Deliver - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/rising-nyrr-fall-jamboree-volunteers": {
+   "name": "Rising NYRR Fall Jamboree - Volunteers",
+   "roles": {
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1",
+      "Youth Events",
+      "Track &amp; Field",
+      "Youth Events - Stage 1",
+      "Youth Events - Stage 2",
+      "Youth"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-course-volunteers": {
+   "name": "TCS New York City Marathon - Course Volunteers",
+   "roles": {
+    "Mile 3A Volunteer": {
+     "nine_one": false,
+     "status": "sold-out",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Mile 3B Volunteer": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Mile 4 Volunteer": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Mile 6 Volunteer": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-bronx-volunteers": {
+   "name": "TCS New York City Marathon Kids Kickoff, Bronx - Volunteers",
+   "roles": {
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-central-park-volunteers": {
+   "name": "TCS New York City Marathon Kids Kickoff, Central Park - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start Corral Marshal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-queens-volunteers": {
+   "name": "TCS New York City Marathon Kids Kickoff, Queens - Volunteers",
+   "roles": {
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-staten-island-volunteers": {
+   "name": "TCS New York City Marathon Kids Kickoff, Staten Island - Volunteers",
+   "roles": {
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers": {
+   "name": "TCS New York City Marathon - Medical Volunteers",
+   "roles": {
+    "Athletic Trainer": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "medical",
+      "9+1 Credit"
+     ]
+    },
+    "Chiropractor": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "medical",
+      "9+1 Credit"
+     ]
+    },
+    "Musculoskeletal Physicians - Attending &amp; Fellow (Podiatrist, Ortho, Sports Med)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "medical",
+      "9+1 Credit"
+     ]
+    },
+    "Occupational Therapist &amp; Occupational Therapy Assistant": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "medical",
+      "9+1 Credit",
+      "Medical",
+      "9+1 Credit"
+     ]
+    },
+    "Physician - Attending &amp; Fellow (Cardio, EM, Trauma, GP, etc.)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "medical",
+      "9+1 Credit"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-post-finish-volunteers": {
+   "name": "TCS New York City Marathon - Post Finish Volunteers",
+   "roles": {
+    "FINISH Athletes with Disabilities Support": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "FINISH Ticketing Ambassador": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-pre-race-bag-check-volunteers": {
+   "name": "TCS New York City Marathon Pre-Race Bag Check - Volunteers",
+   "roles": {
+    "Pre-Race Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-start-volunteers": {
+   "name": "TCS New York City Marathon - Start Volunteers",
+   "roles": {
+    "START Bus Marshal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "START Corral Marshal - Orange": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "START Green Team": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "START NYRR Ambassadors": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "START VIP Hospitality": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "START Village Amenities - Orange": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-training-series-18m-volunteers": {
+   "name": "TCS New York City Marathon Training Series 18M - Volunteers",
+   "roles": {
+    "Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "registration-closed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1",
+      "9+1 Credit",
+      "Scored"
+     ]
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers": {
+   "name": "TCS New York City Marathon - Transportation Volunteers",
+   "roles": {
+    "Bus Ambassador - Charity Team": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Bus Ambassador - Homeport Ferry": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Bus Ambassador - International Tour Operators (ITO)": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Bus Ambassador - Midtown Manhattan Buses": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Bus Ambassador - St. George Terminal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Ferry Rider Ambassador - Whitehall Terminal": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Ferry Terminal Marshal - Pier 79": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Ferry Terminal Marshal - St. George Terminal": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Ferry Terminal Marshal - Whitehall Terminal": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
     }
    }
   }
- }
+ },
+ "scrape_failures": 0
 }
