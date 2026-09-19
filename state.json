@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-19T15:59:21+00:00",
+ "checked_at": "2026-09-19T16:44:34+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
    "name": "Abbott Dash to the Finish Line 5K - Volunteers",
@@ -74,79 +74,23 @@
    "roles": {
     "Bag Check": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station 1 and 4": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station 2": {
      "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station 3": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station 5": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Green Team": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Medals Distribution": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "NYRR Ambassador": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Post-Race Amenities": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Start and Finish": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Volunteer Leaders and Leaders in Training (NO +1)": {
-     "nine_one": false,
      "status": "completed",
      "tags": [
-      "No +1",
+      "9+1",
       "9+1 Credit",
       "4 Out of 6 Credit",
       "Finisher Medals",
@@ -162,9 +106,65 @@
       "Youth"
      ]
     },
+    "Fluid Station 3": {
+     "nine_one": true,
+     "status": "completed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station 5": {
+     "nine_one": true,
+     "status": "completed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Green Team": {
+     "nine_one": true,
+     "status": "completed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medals Distribution": {
+     "nine_one": true,
+     "status": "completed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "NYRR Ambassador": {
+     "nine_one": true,
+     "status": "completed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "completed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish": {
+     "nine_one": true,
+     "status": "completed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "completed",
+     "tags": [
+      "No +1"
+     ]
+    },
     "Youth Event Assistant": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
