@@ -11,17 +11,34 @@ cancellations → spaces reopen).
 
 ## How it works
 
-1. **Discovery** — headless Chromium (Playwright) loads
-   `nyrr.org/getinvolved/volunteeropportunities` and collects every
-   `events.nyrr.org/<slug>` link. (The www listing blocks plain HTTP clients;
-   a real browser engine is needed for this one page.)
-2. **Availability** — each event page is plain server-rendered HTML; a simple
-   GET reads role-level status (`AVL` / `SOL`) and whether the role carries the
-   9+1 tag. Verified against the live Citizens Queens 10K page.
-3. **Diff & notify** — compares against `state.json` (committed back to the repo
-   each run), and POSTs to [ntfy.sh](https://ntfy.sh) only on transitions, so no
-   notification spam. The state commits also keep the repo "active," which stops
-   GitHub from auto-disabling the scheduled workflow after 60 days of inactivity.
+1. **Listing** — headless Chromium (Playwright) loads
+   `nyrr.org/get-involved-volunteer-opportunities` and collects every
+   `/races-and-events/<year>/<slug>-volunteers` link.
+2. **Availability** — each race page is loaded in the same browser and parsed
+   for role-level status. Parsing is anchored on `data-event-status` and
+   `data-registration-option-id`, not on NYRR's build-hashed CSS class names.
+3. **Diff & notify** — compares against `state.json` (committed back to the
+   repo each run) and notifies via [ntfy.sh](https://ntfy.sh) and email only on
+   transitions, so no notification spam. The state commits also keep the repo
+   "active," which stops GitHub from auto-disabling the scheduled workflow
+   after 60 days of inactivity.
+
+A full pass is ~27 page loads and takes well under a minute.
+
+`www.nyrr.org` renders client-side and sits behind Queue-it, so a real browser
+engine is required. `events.nyrr.org` used to serve the same data as plain HTML
+and an earlier version of this watcher used it, but most of its event ids now
+301 back to `www`, so it is no longer used.
+
+## Tests
+
+```bash
+python -m unittest discover -s tests
+```
+
+Parser tests run against HTML fixtures captured from the live site, so they
+catch NYRR layout changes without hitting the network. The workflow runs them
+before each check.
 
 ## Setup (~10 minutes)
 
@@ -65,17 +82,22 @@ gh secret set NTFY_TOPIC --body "nathan-nyrr-vol-wyaHWzqX" \
 
 - `ONLY_NINE_PLUS_ONE` (workflow env): set `"false"` to alert on *all* role
   openings, not just 9+1-tagged ones.
-- Cron cadence: in `watch.yml`. GitHub cron is best-effort — runs can lag
-  3–10 min behind schedule at busy times of day.
+- `EXCLUDE_TAGS` (workflow env): comma-separated role tags that never alert.
+  Defaults to `medical` — those roles require a NYS medical license.
+- Cron cadence: in `watch.yml`. GitHub cron is best-effort and runs can lag
+  well behind schedule. Scheduled workflows in *forked* repos are throttled
+  especially hard — this repo saw ~6-9 runs/day against a `*/15` cron while
+  the upstream non-fork hit ~12 minutes.
 
 ## Known limitations
 
 - **Member+ advance windows:** the watcher sees the *anonymous* view of each
-  event page. If a slot is visible/registerable only to logged-in Member+
-  accounts during the advance window, the watcher may only catch it at general
-  opening. (Unverified either way — watch what happens with the next release.)
+  page. If a slot is visible only to logged-in Member+ accounts during the
+  advance window, the watcher may only catch it at general opening.
 - Registration itself goes through `register.nyrr.org` with reCAPTCHA — the
   watcher only notifies; the click is on you, so speed still matters.
-- If NYRR redesigns the event-page HTML, the parser regexes in `check.py` will
-  need updating. The "discovery degraded" notification fires if the listing
-  page becomes unreachable for ~2 hours.
+- NYRR's own listing contains dead links (a 404 body with no registration
+  options). Those pages are skipped and logged.
+- If NYRR changes the race-page markup, the tests fail before the watcher
+  silently stops finding anything. Re-capture the fixtures in `tests/fixtures/`
+  and update the parser.
