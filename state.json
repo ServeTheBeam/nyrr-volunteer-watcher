@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-20T09:57:22+00:00",
+ "checked_at": "2026-09-20T10:58:48+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
    "name": "Abbott Dash to the Finish Line 5K - Volunteers",
@@ -74,7 +74,7 @@
    "roles": {
     "Cross Country Assistant": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1",
       "Scored",
@@ -906,21 +906,21 @@
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1",
       "9+1 Credit",
@@ -929,7 +929,7 @@
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
@@ -950,7 +950,7 @@
     },
     "Start and Finish": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
