@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-20T16:13:29+00:00",
+ "checked_at": "2026-09-20T17:14:26+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
    "name": "Abbott Dash to the Finish Line 5K - Volunteers",
@@ -888,69 +888,6 @@
     "START Village Amenities - Orange": {
      "nine_one": true,
      "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-training-series-18m-volunteers": {
-   "name": "TCS New York City Marathon Training Series 18M - Volunteers",
-   "roles": {
-    "Bag Check": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal North": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal South": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station North": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1",
-      "9+1 Credit",
-      "Scored"
-     ]
-    },
-    "Fluid Station South": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "NYRR Ambassador": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Post-Race Amenities": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Start and Finish": {
-     "nine_one": true,
-     "status": "completed",
      "tags": [
       "9+1"
      ]
