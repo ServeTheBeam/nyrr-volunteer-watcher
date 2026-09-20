@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-20T05:08:07+00:00",
+ "checked_at": "2026-09-20T09:57:22+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
    "name": "Abbott Dash to the Finish Line 5K - Volunteers",
@@ -899,7 +899,7 @@
    "roles": {
     "Bag Check": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
@@ -936,7 +936,7 @@
     },
     "NYRR Ambassador": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
