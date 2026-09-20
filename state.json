@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-20T02:05:58+00:00",
+ "checked_at": "2026-09-20T03:06:44+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
    "name": "Abbott Dash to the Finish Line 5K - Volunteers",
@@ -259,7 +259,7 @@
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -969,7 +969,7 @@
     },
     "Bus Ambassador - Homeport Ferry": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
