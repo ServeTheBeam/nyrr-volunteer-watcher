@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-21T18:12:12+00:00",
+ "checked_at": "2026-09-21T18:57:55+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
    "name": "Abbott Dash to the Finish Line 5K - Volunteers",
@@ -828,7 +828,7 @@
     },
     "FINISH Early Exit Amenities Ambassador": {
      "nine_one": false,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "No +1"
      ]
@@ -863,7 +863,7 @@
     },
     "FINISH Ticketing Ambassador": {
      "nine_one": false,
-     "status": "available",
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
@@ -915,7 +915,7 @@
     },
     "START Green Team": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
