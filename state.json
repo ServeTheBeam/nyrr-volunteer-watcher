@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-21T22:51:35+00:00",
+ "checked_at": "2026-09-21T23:06:48+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -13,7 +13,7 @@
     },
     "Bib Pick-Up": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -436,7 +436,7 @@
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -582,7 +582,7 @@
    "roles": {
     "Central Park Green Team": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -887,9 +887,16 @@
       "No +1"
      ]
     },
+    "FINISH Medals Distribution": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
     "FINISH Poncho Distribution": {
      "nine_one": false,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
