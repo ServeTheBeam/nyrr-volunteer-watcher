@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-21T14:02:41+00:00",
+ "checked_at": "2026-09-21T15:03:27+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
    "name": "Abbott Dash to the Finish Line 5K - Volunteers",
@@ -826,9 +826,58 @@
       "No +1"
      ]
     },
+    "FINISH Early Exit Amenities Ambassador": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "FINISH Jump Team": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "FINISH Marathon Ambassador": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "FINISH Poncho Distribution": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "FINISH Recovery Bag Distribution": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
     "FINISH Ticketing Ambassador": {
      "nine_one": false,
      "status": "available",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "FINISH Volunteer Support": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "FINISH Walk-Off Marshal": {
+     "nine_one": false,
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
@@ -887,7 +936,7 @@
     },
     "START Village Amenities - Orange": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
