@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-22T19:46:18+00:00",
+ "checked_at": "2026-09-22T20:01:32+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -13,7 +13,7 @@
     },
     "Bib Pick-Up": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -285,9 +285,7 @@
      "nine_one": true,
      "status": "sold-out",
      "tags": [
-      "9+1",
-      "9+1 Credit",
-      "Scored"
+      "9+1"
      ]
     },
     "Course Marshal North": {
@@ -327,9 +325,11 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
-      "9+1"
+      "9+1",
+      "9+1 Credit",
+      "Scored"
      ]
     },
     "Start and Finish": {
@@ -712,7 +712,7 @@
    "roles": {
     "Mile 3A Volunteer": {
      "nine_one": false,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "No +1"
      ]
@@ -956,7 +956,7 @@
     },
     "START Corral Marshal - Orange": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
