@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-22T16:09:03+00:00",
+ "checked_at": "2026-09-22T16:55:02+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -360,7 +360,7 @@
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -712,7 +712,7 @@
    "roles": {
     "Mile 3A Volunteer": {
      "nine_one": false,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
@@ -771,7 +771,7 @@
     },
     "Start Corral Marshal": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -955,7 +955,7 @@
     },
     "START Green Team": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -995,9 +995,11 @@
     },
     "Bus Ambassador - Homeport Ferry": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
-      "9+1"
+      "9+1",
+      "No +1",
+      "9+1 Credit"
      ]
     },
     "Bus Ambassador - International Tour Operators (ITO)": {
@@ -1025,9 +1027,7 @@
      "nine_one": false,
      "status": "available",
      "tags": [
-      "No +1",
-      "No +1",
-      "9+1 Credit"
+      "No +1"
      ]
     },
     "Ferry Terminal Marshal - Pier 79": {
