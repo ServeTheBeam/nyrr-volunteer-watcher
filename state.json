@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-23T15:02:06+00:00",
+ "checked_at": "2026-09-23T16:02:53+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -175,7 +175,7 @@
    "roles": {
     "Bag Check": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -353,7 +353,7 @@
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -615,7 +615,7 @@
     },
     "Training Support": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -703,13 +703,6 @@
   "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-course-volunteers": {
    "name": "TCS New York City Marathon - Course Volunteers",
    "roles": {
-    "Mile 3A Volunteer": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
     "Mile 3B Volunteer": {
      "nine_one": false,
      "status": "available",
@@ -741,6 +734,8 @@
      "status": "available",
      "tags": [
       "medical",
+      "9+1 Credit",
+      "Medical",
       "9+1 Credit"
      ]
     },
@@ -773,8 +768,6 @@
      "status": "available",
      "tags": [
       "medical",
-      "9+1 Credit",
-      "Medical",
       "9+1 Credit"
      ]
     },
@@ -901,7 +894,7 @@
     },
     "START VIP Hospitality": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
