@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-22T23:56:14+00:00",
+ "checked_at": "2026-09-23T01:56:27+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -819,6 +819,13 @@
       "No +1"
      ]
     },
+    "FINISH Medals Distribution": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
     "FINISH Poncho Distribution": {
      "nine_one": false,
      "status": "near-capacity",
@@ -915,9 +922,7 @@
      "nine_one": false,
      "status": "available",
      "tags": [
-      "No +1",
-      "No +1",
-      "9+1 Credit"
+      "No +1"
      ]
     },
     "Bus Ambassador - Homeport Ferry": {
@@ -964,9 +969,11 @@
     },
     "Ferry Terminal Marshal - St. George Terminal": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
-      "9+1"
+      "9+1",
+      "No +1",
+      "9+1 Credit"
      ]
     },
     "Ferry Terminal Marshal - Whitehall Terminal": {
