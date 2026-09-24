@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-24T04:05:56+00:00",
+ "checked_at": "2026-09-24T05:06:40+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -276,7 +276,7 @@
    "roles": {
     "Bag Check": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -873,7 +873,7 @@
     },
     "START Corral Marshal - Orange": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -964,7 +964,7 @@
     },
     "Ferry Terminal Marshal - St. George Terminal": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
