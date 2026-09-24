@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-24T06:02:09+00:00",
+ "checked_at": "2026-09-24T13:46:29+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -114,7 +114,7 @@
    "roles": {
     "Cross Country Assistant": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1",
       "Scored",
