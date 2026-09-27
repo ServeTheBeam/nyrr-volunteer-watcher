@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-27T14:25:57+00:00",
+ "checked_at": "2026-09-27T15:11:38+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -942,7 +942,7 @@
     },
     "Bus Ambassador - International Tour Operators (ITO)": {
      "nine_one": false,
-     "status": "available",
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
