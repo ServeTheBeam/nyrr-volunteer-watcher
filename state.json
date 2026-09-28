@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-28T20:38:32+00:00",
+ "checked_at": "2026-09-28T20:53:47+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -786,58 +786,9 @@
   "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-post-finish-volunteers": {
    "name": "TCS New York City Marathon - Post Finish Volunteers",
    "roles": {
-    "FINISH Athletes with Disabilities Support": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "FINISH Early Exit Amenities Ambassador": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "FINISH Jump Team": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "FINISH Marathon Ambassador": {
-     "nine_one": false,
-     "status": "near-capacity",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "FINISH Poncho Distribution": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
     "FINISH Recovery Bag Distribution": {
      "nine_one": false,
      "status": "near-capacity",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "FINISH Ticketing Ambassador": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "FINISH Volunteer Support": {
-     "nine_one": false,
-     "status": "sold-out",
      "tags": [
       "No +1"
      ]
@@ -896,7 +847,7 @@
     },
     "START Village Amenities - Orange": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
