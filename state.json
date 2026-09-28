@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-28T20:53:47+00:00",
+ "checked_at": "2026-09-28T21:09:04+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -230,7 +230,7 @@
     },
     "NYRR Ambassador": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -710,13 +710,6 @@
      "tags": [
       "No +1"
      ]
-    },
-    "Mile 6 Volunteer": {
-     "nine_one": false,
-     "status": "near-capacity",
-     "tags": [
-      "No +1"
-     ]
     }
    }
   },
@@ -875,7 +868,9 @@
      "nine_one": false,
      "status": "near-capacity",
      "tags": [
-      "No +1"
+      "No +1",
+      "No +1",
+      "9+1 Credit"
      ]
     },
     "Bus Ambassador - Midtown Manhattan Buses": {
@@ -889,9 +884,7 @@
      "nine_one": true,
      "status": "sold-out",
      "tags": [
-      "9+1",
-      "No +1",
-      "9+1 Credit"
+      "9+1"
      ]
     },
     "Ferry Rider Ambassador - Whitehall Terminal": {
@@ -920,6 +913,18 @@
      "status": "available",
      "tags": [
       "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/try-the-track-volunteers": {
+   "name": "Try The Track - Volunteers",
+   "roles": {
+    "Event Assistant": {
+     "nine_one": true,
+     "status": "available",
+     "tags": [
+      "9+1"
      ]
     }
    }
