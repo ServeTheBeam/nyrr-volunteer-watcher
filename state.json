@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-30T01:59:55+00:00",
+ "checked_at": "2026-09-30T05:02:47+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -730,7 +730,7 @@
    "roles": {
     "Athletic Trainer": {
      "nine_one": false,
-     "status": "available",
+     "status": "registration-closed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -738,7 +738,7 @@
     },
     "Chiropractor": {
      "nine_one": false,
-     "status": "available",
+     "status": "registration-closed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -746,7 +746,7 @@
     },
     "Musculoskeletal Physicians - Attending &amp; Fellow (Podiatrist, Ortho, Sports Med)": {
      "nine_one": false,
-     "status": "available",
+     "status": "registration-closed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -754,7 +754,7 @@
     },
     "Occupational Therapist &amp; Occupational Therapy Assistant": {
      "nine_one": false,
-     "status": "available",
+     "status": "registration-closed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -762,7 +762,7 @@
     },
     "Physician - Attending &amp; Fellow (Cardio, EM, Trauma, GP, etc.)": {
      "nine_one": false,
-     "status": "available",
+     "status": "registration-closed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -770,7 +770,7 @@
     },
     "Spotter Tower Volunteer": {
      "nine_one": false,
-     "status": "near-capacity",
+     "status": "registration-closed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -778,7 +778,7 @@
     },
     "Student - Medical Volunteer": {
      "nine_one": false,
-     "status": "available",
+     "status": "registration-closed",
      "tags": [
       "medical",
       "9+1 Credit",
