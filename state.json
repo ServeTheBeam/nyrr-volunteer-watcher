@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-10-01T15:57:07+00:00",
+ "checked_at": "2026-10-01T16:12:18+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -595,7 +595,7 @@
     },
     "Marathon Monday Ambassador - RUN CENTER": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -747,8 +747,6 @@
      "status": "available",
      "tags": [
       "medical",
-      "9+1 Credit",
-      "Medical",
       "9+1 Credit"
      ]
     },
@@ -757,6 +755,8 @@
      "status": "available",
      "tags": [
       "medical",
+      "9+1 Credit",
+      "Medical",
       "9+1 Credit"
      ]
     },
@@ -779,14 +779,6 @@
     "Occupational Therapist &amp; Occupational Therapy Assistant": {
      "nine_one": false,
      "status": "available",
-     "tags": [
-      "medical",
-      "9+1 Credit"
-     ]
-    },
-    "Student - Medical Volunteer": {
-     "nine_one": false,
-     "status": "near-capacity",
      "tags": [
       "medical",
       "9+1 Credit"
