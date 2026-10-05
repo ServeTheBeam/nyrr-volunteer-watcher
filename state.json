@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-04T23:30:53+00:00",
+ "checked_at": "2026-10-05T00:01:20+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -109,26 +109,6 @@
     }
    }
   },
-  "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-2-volunteers": {
-   "name": "NYRR Cross Country Series #2 - Volunteers",
-   "roles": {
-    "Cross Country Assistant": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1",
-      "Scored",
-      "Cross Country",
-      "Youth Events",
-      "Youth Events - Stage 1",
-      "Youth Events - Stage 2",
-      "Youth Events - Stage 3",
-      "Cross Country",
-      "Youth"
-     ]
-    }
-   }
-  },
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
    "roles": {
@@ -200,60 +180,6 @@
      "status": "available",
      "tags": [
       "No +1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/nyrr-jersey-city-5k-volunteers": {
-   "name": "NYRR Jersey City 5K - Volunteers",
-   "roles": {
-    "Bag Check": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "NYRR Ambassador": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Post-Race Amenities": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Start and Finish": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Transportation Marshal": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
      ]
     }
    }
