@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-08T16:03:39+00:00",
+ "checked_at": "2026-10-08T17:04:28+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -814,41 +814,11 @@
   "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers": {
    "name": "TCS New York City Marathon - Transportation Volunteers",
    "roles": {
-    "Bus Ambassador - Charity Team": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "Bus Ambassador - Homeport Ferry": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Bus Ambassador - International Tour Operators (ITO)": {
-     "nine_one": false,
-     "status": "sold-out",
-     "tags": [
-      "No +1"
-     ]
-    },
     "Bus Ambassador - Midtown Manhattan Buses": {
      "nine_one": false,
      "status": "available",
      "tags": [
       "No +1"
-     ]
-    },
-    "Bus Ambassador - St. George Terminal": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1",
-      "No +1",
-      "9+1 Credit"
      ]
     },
     "Ferry Rider Ambassador - Whitehall Terminal": {
@@ -865,18 +835,13 @@
       "No +1"
      ]
     },
-    "Ferry Terminal Marshal - St. George Terminal": {
-     "nine_one": true,
-     "status": "sold-out",
-     "tags": [
-      "9+1"
-     ]
-    },
     "Ferry Terminal Marshal - Whitehall Terminal": {
      "nine_one": false,
      "status": "available",
      "tags": [
-      "No +1"
+      "No +1",
+      "No +1",
+      "9+1 Credit"
      ]
     }
    }
