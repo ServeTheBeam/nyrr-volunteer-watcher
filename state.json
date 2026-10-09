@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-09T21:30:41+00:00",
+ "checked_at": "2026-10-09T22:01:10+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -739,6 +739,13 @@
   "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-start-volunteers": {
    "name": "TCS New York City Marathon - Start Volunteers",
    "roles": {
+    "START Bridge Gate Marshal (Background Check REQUIRED)": {
+     "nine_one": true,
+     "status": "registration-closed",
+     "tags": [
+      "9+1"
+     ]
+    },
     "START Bus Marshal": {
      "nine_one": true,
      "status": "registration-closed",
@@ -760,6 +767,13 @@
       "9+1"
      ]
     },
+    "START Jump Team": {
+     "nine_one": false,
+     "status": "registration-closed",
+     "tags": [
+      "9+1 Credit"
+     ]
+    },
     "START NYRR Ambassadors": {
      "nine_one": true,
      "status": "sold-out",
@@ -774,7 +788,21 @@
       "9+1"
      ]
     },
+    "START Village Amenities - Blue": {
+     "nine_one": true,
+     "status": "registration-closed",
+     "tags": [
+      "9+1"
+     ]
+    },
     "START Village Amenities - Orange": {
+     "nine_one": true,
+     "status": "registration-closed",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "START Village Amenities - Silver Charity": {
      "nine_one": true,
      "status": "registration-closed",
      "tags": [
