@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-09T18:17:32+00:00",
+ "checked_at": "2026-10-09T20:03:57+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -788,7 +788,7 @@
    "roles": {
     "Bus Ambassador - Midtown Manhattan Buses": {
      "nine_one": false,
-     "status": "available",
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
