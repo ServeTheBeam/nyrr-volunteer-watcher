@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-09T16:46:14+00:00",
+ "checked_at": "2026-10-09T17:01:28+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -591,32 +591,6 @@
     }
    }
   },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-course-volunteers": {
-   "name": "TCS New York City Marathon - Course Volunteers",
-   "roles": {
-    "Brooklyn Gel Zone Volunteer": {
-     "nine_one": false,
-     "status": "registration-closed",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "Mile 3B Volunteer": {
-     "nine_one": false,
-     "status": "registration-closed",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "Mile 4 Volunteer": {
-     "nine_one": false,
-     "status": "registration-closed",
-     "tags": [
-      "No +1"
-     ]
-    }
-   }
-  },
   "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-bronx-volunteers": {
    "name": "TCS New York City Marathon Kids Kickoff, Bronx - Volunteers",
    "roles": {
@@ -818,9 +792,7 @@
      "nine_one": false,
      "status": "available",
      "tags": [
-      "No +1",
-      "No +1",
-      "9+1 Credit"
+      "No +1"
      ]
     },
     "Ferry Rider Ambassador - Whitehall Terminal": {
@@ -841,7 +813,9 @@
      "nine_one": false,
      "status": "available",
      "tags": [
-      "No +1"
+      "No +1",
+      "No +1",
+      "9+1 Credit"
      ]
     }
    }
