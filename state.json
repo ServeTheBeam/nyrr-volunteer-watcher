@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-10-10T19:58:18+00:00",
+ "checked_at": "2026-10-10T20:13:31+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -587,6 +587,18 @@
       "Youth Events - Stage 1",
       "Youth Events - Stage 2",
       "Youth"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-bronx-volunteers": {
+   "name": "TCS New York City Marathon Kids Kickoff, Bronx - Volunteers",
+   "roles": {
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
      ]
     }
    }
