@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-12T23:33:54+00:00",
+ "checked_at": "2026-10-13T01:04:57+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -540,6 +540,32 @@
       "Youth Events - Stage 1",
       "Youth Events - Stage 2",
       "Youth"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-course-volunteers": {
+   "name": "TCS New York City Marathon - Course Volunteers",
+   "roles": {
+    "Mile 21 Volunteer": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Mile 22 Volunteer": {
+     "nine_one": false,
+     "status": "near-capacity",
+     "tags": [
+      "No +1"
+     ]
+    },
+    "Mobile Support": {
+     "nine_one": false,
+     "status": "available",
+     "tags": [
+      "No +1"
      ]
     }
    }
