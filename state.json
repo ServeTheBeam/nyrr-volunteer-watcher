@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-16T17:56:45+00:00",
+ "checked_at": "2026-10-16T18:57:39+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -661,16 +661,9 @@
   "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-post-finish-volunteers": {
    "name": "TCS New York City Marathon - Post Finish Volunteers",
    "roles": {
-    "FINISH Recovery Bag Distribution": {
+    "FINISH Bag Check": {
      "nine_one": false,
-     "status": "registration-closed",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "FINISH VIP Hospitality": {
-     "nine_one": false,
-     "status": "registration-closed",
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
