@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-18T17:03:16+00:00",
+ "checked_at": "2026-10-18T18:46:02+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -315,7 +315,7 @@
     },
     "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "available",
+     "status": "near-capacity",
      "tags": [
       "No +1"
      ]
