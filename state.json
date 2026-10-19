@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-19T21:46:00+00:00",
+ "checked_at": "2026-10-19T22:01:15+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -231,7 +231,7 @@
     },
     "Start and Finish": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1",
       "9+1 Credit",
@@ -556,6 +556,14 @@
       "9+1"
      ]
     },
+    "Medical Volunteers (Must be licensed in NJS or NYS EMT)": {
+     "nine_one": true,
+     "status": "available",
+     "tags": [
+      "medical",
+      "9+1"
+     ]
+    },
     "Start Corral Marshal": {
      "nine_one": true,
      "status": "sold-out",
@@ -646,7 +654,7 @@
    "roles": {
     "FINISH Bag Check": {
      "nine_one": false,
-     "status": "sold-out",
+     "status": "registration-closed",
      "tags": [
       "No +1"
      ]
