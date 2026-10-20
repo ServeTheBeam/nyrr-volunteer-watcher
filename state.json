@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-20T15:30:58+00:00",
+ "checked_at": "2026-10-20T15:46:18+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -789,6 +789,344 @@
     "Ferry Terminal Marshal - Whitehall Terminal": {
      "nine_one": false,
      "status": "sold-out",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2027/nyrr-al-gordon-5k-volunteers": {
+   "name": "NYRR Al Gordon 5K - Volunteers",
+   "roles": {
+    "Ambassador": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Bag Check": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medical Volunteers (Must be licensed in New York State)": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "medical",
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish Marshal": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)": {
+     "nine_one": false,
+     "status": "coming-soon",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2027/nyrr-gridiron-4m-presented-by-the-flag-art-foundation-volunteers": {
+   "name": "NYRR Gridiron 4M Presented by The FLAG Art Foundation - Volunteers",
+   "roles": {
+    "Ambassador": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Bag Check": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medical Volunteers (Must be licensed in New York State)": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "medical",
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish Marshal": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "coming-soon",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2027/nyrr-joe-kleinerman-10k-volunteers": {
+   "name": "NYRR Joe Kleinerman 10K - Volunteers",
+   "roles": {
+    "Ambassador": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Bag Check": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medical Volunteers (Must be licensed in New York State)": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "medical",
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish Marshal": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (NO +1)": {
+     "nine_one": false,
+     "status": "coming-soon",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2027/nyrr-manhattan-10k-volunteers": {
+   "name": "NYRR Manhattan 10K - Volunteers",
+   "roles": {
+    "Ambassador": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Bag Check": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station North": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station South": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medical Volunteers (Must be licensed in New York State)": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "medical",
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish Marshal": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders and Leaders in Training (No +1)": {
+     "nine_one": false,
+     "status": "coming-soon",
+     "tags": [
+      "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2027/nyrr-washington-heights-salsa-blues-and-shamrocks-5k-volunteers": {
+   "name": "NYRR Washington Heights Salsa, Blues, and Shamrocks 5K - Volunteers",
+   "roles": {
+    "Ambassador": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Bag Check": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal North": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Course Marshal South": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Fluid Station": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Medical Volunteers (Must be licensed in New York State)": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "medical",
+      "9+1"
+     ]
+    },
+    "Post-Race Amenities": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Start and Finish Marshal": {
+     "nine_one": true,
+     "status": "coming-soon",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)": {
+     "nine_one": false,
+     "status": "coming-soon",
      "tags": [
       "No +1"
      ]
