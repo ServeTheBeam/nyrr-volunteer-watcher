@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-20T16:32:17+00:00",
+ "checked_at": "2026-10-20T16:47:43+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -532,7 +532,19 @@
    "roles": {
     "Youth Event Assistant": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-brooklyn-volunteers": {
+   "name": "TCS New York City Marathon Kids Kickoff, Brooklyn - Volunteers",
+   "roles": {
+    "Youth Event Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -869,21 +881,21 @@
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -912,7 +924,7 @@
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1007,7 +1019,7 @@
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1050,7 +1062,7 @@
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "advanced-registration",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -1195,7 +1207,7 @@
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
