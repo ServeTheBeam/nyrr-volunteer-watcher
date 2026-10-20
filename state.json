@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-20T16:01:37+00:00",
+ "checked_at": "2026-10-20T16:16:57+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -13,7 +13,7 @@
     },
     "Bib Pick-Up": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -27,7 +27,7 @@
     },
     "T-Shirt Distribution": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -273,7 +273,7 @@
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -492,7 +492,7 @@
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -800,28 +800,28 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Medical Volunteers (Must be licensed in New York State)": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "medical",
       "9+1"
@@ -829,21 +829,21 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)": {
      "nine_one": false,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "No +1"
      ]
@@ -855,49 +855,49 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Medical Volunteers (Must be licensed in New York State)": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "medical",
       "9+1"
@@ -905,21 +905,21 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "No +1"
      ]
@@ -931,35 +931,35 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Medical Volunteers (Must be licensed in New York State)": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "medical",
       "9+1"
@@ -967,21 +967,21 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "No +1"
      ]
@@ -993,49 +993,49 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Medical Volunteers (Must be licensed in New York State)": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "medical",
       "9+1"
@@ -1043,21 +1043,21 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Volunteer Leaders and Leaders in Training (NO +1)": {
      "nine_one": false,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "No +1"
      ]
@@ -1069,49 +1069,49 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station South": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Medical Volunteers (Must be licensed in New York State)": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "medical",
       "9+1"
@@ -1119,21 +1119,21 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Volunteer Leaders and Leaders in Training (No +1)": {
      "nine_one": false,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "No +1"
      ]
@@ -1145,42 +1145,42 @@
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Bag Check": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal North": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Fluid Station": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
     },
     "Medical Volunteers (Must be licensed in New York State)": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "medical",
       "9+1"
@@ -1188,21 +1188,21 @@
     },
     "Post-Race Amenities": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "9+1"
      ]
     },
     "Volunteer Leaders (reserved for Volunteers Leaders and Leaders in Training ONLY)": {
      "nine_one": false,
-     "status": "coming-soon",
+     "status": "advanced-registration",
      "tags": [
       "No +1"
      ]
