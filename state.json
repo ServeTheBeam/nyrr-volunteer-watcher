@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-23T17:11:51+00:00",
+ "checked_at": "2026-10-23T19:40:49+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -74,7 +74,7 @@
     },
     "NYRR Ambassador": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
@@ -1018,7 +1018,7 @@
     },
     "Fluid Station North": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
       "9+1"
      ]
