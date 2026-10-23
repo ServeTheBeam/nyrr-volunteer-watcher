@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-10-23T05:29:30+00:00",
+ "checked_at": "2026-10-23T05:44:44+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -419,7 +419,7 @@
     },
     "Marathon Monday Ambassador - Pavilion": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -663,7 +663,7 @@
    "roles": {
     "Pre-Race Bag Check": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
