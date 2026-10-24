@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-24T09:56:48+00:00",
+ "checked_at": "2026-10-24T10:12:10+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -654,6 +654,18 @@
      "status": "registration-closed",
      "tags": [
       "No +1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-pre-race-bag-check-volunteers": {
+   "name": "TCS New York City Marathon Pre-Race Bag Check - Volunteers",
+   "roles": {
+    "Pre-Race Bag Check": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1"
      ]
     }
    }
