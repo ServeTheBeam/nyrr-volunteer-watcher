@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-10-25T23:53:07+00:00",
+ "checked_at": "2026-10-26T00:08:25+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
    "roles": {
     "Ambassador": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -527,30 +527,6 @@
     }
    }
   },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-bronx-volunteers": {
-   "name": "TCS New York City Marathon Kids Kickoff, Bronx - Volunteers",
-   "roles": {
-    "Youth Event Assistant": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-brooklyn-volunteers": {
-   "name": "TCS New York City Marathon Kids Kickoff, Brooklyn - Volunteers",
-   "roles": {
-    "Youth Event Assistant": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
   "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-central-park-volunteers": {
    "name": "TCS New York City Marathon Kids Kickoff, Central Park - Volunteers",
    "roles": {
@@ -569,18 +545,6 @@
      ]
     },
     "Start Corral Marshal": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-kids-kickoff-queens-volunteers": {
-   "name": "TCS New York City Marathon Kids Kickoff, Queens - Volunteers",
-   "roles": {
-    "Youth Event Assistant": {
      "nine_one": true,
      "status": "completed",
      "tags": [
