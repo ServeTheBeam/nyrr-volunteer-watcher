@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-31T12:58:10+00:00",
+ "checked_at": "2026-10-31T13:13:23+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -98,6 +98,27 @@
      "status": "sold-out",
      "tags": [
       "9+1"
+     ]
+    }
+   }
+  },
+  "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
+   "name": "NYRR Cross Country Series #3 - Volunteers",
+   "roles": {
+    "Cross Country Assistant": {
+     "nine_one": true,
+     "status": "sold-out",
+     "tags": [
+      "9+1",
+      "Scored",
+      "Cross Country",
+      "Youth Events",
+      "Finisher Medals",
+      "Youth Events - Stage 1",
+      "Youth Events - Stage 2",
+      "Youth Events - Stage 3",
+      "Cross Country",
+      "Youth"
      ]
     }
    }
