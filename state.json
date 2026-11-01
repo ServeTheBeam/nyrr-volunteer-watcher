@@ -1,46 +1,6 @@
 {
- "checked_at": "2026-11-01T19:17:39+00:00",
+ "checked_at": "2026-11-01T22:08:49+00:00",
  "events": {
-  "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
-   "name": "2026 TCS New York City Marathon Expo - Volunteers",
-   "roles": {
-    "Ambassador": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Bib Pick-Up": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "International Tour Operator (ITO) Support": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "T-Shirt Distribution": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Volunteer Support": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
    "roles": {
