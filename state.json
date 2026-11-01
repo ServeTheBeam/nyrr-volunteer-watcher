@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-01T13:54:52+00:00",
+ "checked_at": "2026-11-01T15:41:43+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -33,67 +33,6 @@
      ]
     },
     "Volunteer Support": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/abbott-dash-to-the-finish-line-5k-volunteers": {
-   "name": "Abbott Dash to the Finish Line 5K - Volunteers",
-   "roles": {
-    "Bag Check": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal - Central Park and Midtown North": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal - Midtown": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "NYRR Ambassador": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Post-Race Amenities": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Start Corral Marshal": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Walk-Off Marshal": {
      "nine_one": true,
      "status": "completed",
      "tags": [
@@ -308,7 +247,7 @@
     },
     "Start and Finish": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -577,7 +516,7 @@
    "roles": {
     "FINISH Bag Check": {
      "nine_one": false,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "No +1"
      ]
@@ -671,7 +610,7 @@
     },
     "Bus Ambassador - Midtown Manhattan Buses": {
      "nine_one": false,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "No +1"
      ]
