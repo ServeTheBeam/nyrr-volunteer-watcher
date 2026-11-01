@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-01T10:52:28+00:00",
+ "checked_at": "2026-11-01T11:53:10+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon-expo-volunteers": {
    "name": "2026 TCS New York City Marathon Expo - Volunteers",
@@ -610,21 +610,21 @@
     },
     "START Green Team": {
      "nine_one": true,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
     },
     "START Jump Team": {
      "nine_one": false,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1 Credit"
      ]
     },
     "START NYRR Ambassadors": {
      "nine_one": true,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
@@ -652,7 +652,7 @@
     },
     "START Village Amenities - Silver Charity": {
      "nine_one": true,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
