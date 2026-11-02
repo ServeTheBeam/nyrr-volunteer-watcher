@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-02T02:58:25+00:00",
+ "checked_at": "2026-11-02T03:59:08+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -431,7 +431,7 @@
    "roles": {
     "Athletic Trainer": {
      "nine_one": false,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -439,7 +439,7 @@
     },
     "Chiropractor": {
      "nine_one": false,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -447,7 +447,7 @@
     },
     "EM &amp; Varied Physicians - Attending &amp; Fellow (EM, Trauma, Cardio, others)": {
      "nine_one": false,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -455,7 +455,7 @@
     },
     "Musculoskeletal Physicians - Attending &amp; Fellow (Podiatrist, Ortho, Sports Med)": {
      "nine_one": false,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "medical",
       "9+1 Credit"
@@ -463,7 +463,7 @@
     },
     "Occupational Therapist &amp; Occupational Therapy Assistant": {
      "nine_one": false,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "medical",
       "9+1 Credit"
