@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-02T03:59:08+00:00",
+ "checked_at": "2026-11-02T04:14:19+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -333,25 +333,6 @@
     "Post-Marathon Ambassador": {
      "nine_one": true,
      "status": "registration-closed",
-     "tags": [
-      "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/pre-marathon-support-volunteers": {
-   "name": "Pre-Marathon Support - Volunteers",
-   "roles": {
-    "Expo Bib Support": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Training Support": {
-     "nine_one": true,
-     "status": "completed",
      "tags": [
       "9+1"
      ]
