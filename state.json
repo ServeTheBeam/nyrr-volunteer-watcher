@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-02T12:24:18+00:00",
+ "checked_at": "2026-11-02T17:42:22+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -34,7 +34,7 @@
     },
     "Course Marshal": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -318,14 +318,14 @@
     },
     "Marathon Monday Ambassador - Pavilion": {
      "nine_one": true,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
     },
     "Marathon Monday Ambassador - RUN CENTER": {
      "nine_one": true,
-     "status": "registration-closed",
+     "status": "completed",
      "tags": [
       "9+1"
      ]
@@ -535,53 +535,6 @@
      "status": "completed",
      "tags": [
       "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-transportation-volunteers": {
-   "name": "TCS New York City Marathon - Transportation Volunteers",
-   "roles": {
-    "Bus Ambassador - Homeport Ferry": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Bus Ambassador - Midtown Manhattan Buses": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "Bus Ambassador - St. George Terminal": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Ferry Rider Ambassador - Whitehall Terminal": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "Ferry Terminal Marshal - Pier 79": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "No +1"
-     ]
-    },
-    "Ferry Terminal Marshal - Whitehall Terminal": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "No +1"
      ]
     }
    }
