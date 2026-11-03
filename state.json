@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-03T01:37:54+00:00",
+ "checked_at": "2026-11-03T02:08:13+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -403,51 +403,6 @@
      "status": "sold-out",
      "tags": [
       "9+1"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-medical-volunteers": {
-   "name": "TCS New York City Marathon - Medical Volunteers",
-   "roles": {
-    "Athletic Trainer": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "medical",
-      "9+1 Credit"
-     ]
-    },
-    "Chiropractor": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "medical",
-      "9+1 Credit"
-     ]
-    },
-    "EM &amp; Varied Physicians - Attending &amp; Fellow (EM, Trauma, Cardio, others)": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "medical",
-      "9+1 Credit"
-     ]
-    },
-    "Musculoskeletal Physicians - Attending &amp; Fellow (Podiatrist, Ortho, Sports Med)": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "medical",
-      "9+1 Credit"
-     ]
-    },
-    "Occupational Therapist &amp; Occupational Therapy Assistant": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "medical",
-      "9+1 Credit"
      ]
     }
    }
