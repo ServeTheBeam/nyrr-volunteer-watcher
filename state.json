@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-03T00:37:11+00:00",
+ "checked_at": "2026-11-03T01:07:34+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -448,18 +448,6 @@
      "tags": [
       "medical",
       "9+1 Credit"
-     ]
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/tcs-new-york-city-marathon-post-finish-volunteers": {
-   "name": "TCS New York City Marathon - Post Finish Volunteers",
-   "roles": {
-    "FINISH Bag Check": {
-     "nine_one": false,
-     "status": "completed",
-     "tags": [
-      "No +1"
      ]
     }
    }
