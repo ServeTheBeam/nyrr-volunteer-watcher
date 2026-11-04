@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-04T16:45:57+00:00",
+ "checked_at": "2026-11-04T18:01:42+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -104,7 +104,9 @@
      "nine_one": true,
      "status": "sold-out",
      "tags": [
-      "9+1"
+      "9+1",
+      "9+1 Credit",
+      "Scored"
      ]
     },
     "Fluid Station South": {
@@ -118,9 +120,7 @@
      "nine_one": true,
      "status": "sold-out",
      "tags": [
-      "9+1",
-      "9+1 Credit",
-      "Scored"
+      "9+1"
      ]
     },
     "Post-Race Amenities": {
