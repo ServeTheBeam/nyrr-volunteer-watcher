@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-04T00:43:35+00:00",
+ "checked_at": "2026-11-04T05:07:27+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -303,39 +303,6 @@
      "nine_one": false,
      "status": "available",
      "tags": []
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/post-marathon-week-volunteers": {
-   "name": "Post-Marathon Week - Volunteers",
-   "roles": {
-    "Central Park Green Team": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Marathon Monday Ambassador - Pavilion": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Marathon Monday Ambassador - RUN CENTER": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Post-Marathon Ambassador": {
-     "nine_one": true,
-     "status": "registration-closed",
-     "tags": [
-      "9+1"
-     ]
     }
    }
   },
