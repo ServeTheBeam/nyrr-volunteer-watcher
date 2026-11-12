@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-12T17:51:33+00:00",
+ "checked_at": "2026-11-12T18:06:42+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
@@ -370,14 +370,6 @@
       "9+1"
      ]
     },
-    "Medical Volunteers (Must be licensed in New York State)": {
-     "nine_one": true,
-     "status": "available",
-     "tags": [
-      "medical",
-      "9+1"
-     ]
-    },
     "Post-Race Amenities": {
      "nine_one": true,
      "status": "sold-out",
@@ -455,7 +447,7 @@
     },
     "Start and Finish Marshal": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
