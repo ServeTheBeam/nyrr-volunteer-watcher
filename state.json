@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-11-15T12:45:33+00:00",
+ "checked_at": "2026-11-15T15:13:31+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
    "name": "NYRR Cross Country Series #3 - Volunteers",
    "roles": {
     "Cross Country Assistant": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "completed",
      "tags": [
       "9+1",
       "Scored",
