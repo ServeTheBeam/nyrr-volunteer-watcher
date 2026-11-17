@@ -1,27 +1,6 @@
 {
- "checked_at": "2026-11-16T23:06:48+00:00",
+ "checked_at": "2026-11-17T05:14:14+00:00",
  "events": {
-  "https://www.nyrr.org/races-and-events/2026/nyrr-cross-country-series-3-volunteers": {
-   "name": "NYRR Cross Country Series #3 - Volunteers",
-   "roles": {
-    "Cross Country Assistant": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1",
-      "Scored",
-      "Cross Country",
-      "Youth Events",
-      "Finisher Medals",
-      "Youth Events - Stage 1",
-      "Youth Events - Stage 2",
-      "Youth Events - Stage 3",
-      "Cross Country",
-      "Youth"
-     ]
-    }
-   }
-  },
   "https://www.nyrr.org/races-and-events/2026/nyrr-frosty-5k-volunteers": {
    "name": "NYRR Frosty 5K - Volunteers",
    "roles": {
