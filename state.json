@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-19T13:40:39+00:00",
+ "checked_at": "2026-11-19T18:55:41+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-frosty-5k-volunteers": {
    "name": "NYRR Frosty 5K - Volunteers",
@@ -53,11 +53,9 @@
    "roles": {
     "Bag Check": {
      "nine_one": true,
-     "status": "sold-out",
+     "status": "near-capacity",
      "tags": [
-      "9+1",
-      "9+1 Credit",
-      "Scored"
+      "9+1"
      ]
     },
     "Course Marshal North": {
@@ -99,7 +97,9 @@
      "nine_one": true,
      "status": "sold-out",
      "tags": [
-      "9+1"
+      "9+1",
+      "9+1 Credit",
+      "Scored"
      ]
     },
     "Volunteer Leaders and Leaders in Training (NO +1)": {
@@ -298,6 +298,13 @@
     "Fluid Station South": {
      "nine_one": true,
      "status": "sold-out",
+     "tags": [
+      "9+1"
+     ]
+    },
+    "Jump Team": {
+     "nine_one": true,
+     "status": "available",
      "tags": [
       "9+1"
      ]
