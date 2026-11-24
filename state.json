@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-24T02:26:35+00:00",
+ "checked_at": "2026-11-24T02:41:43+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-frosty-5k-volunteers": {
    "name": "NYRR Frosty 5K - Volunteers",
@@ -67,7 +67,7 @@
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
@@ -130,7 +130,7 @@
     },
     "Course Marshal South": {
      "nine_one": true,
-     "status": "near-capacity",
+     "status": "sold-out",
      "tags": [
       "9+1"
      ]
