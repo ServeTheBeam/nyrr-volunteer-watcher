@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-24T03:42:13+00:00",
+ "checked_at": "2026-11-24T06:41:34+00:00",
  "events": {
   "https://www.nyrr.org/races-and-events/2026/nyrr-frosty-5k-volunteers": {
    "name": "NYRR Frosty 5K - Volunteers",
@@ -261,81 +261,6 @@
      "nine_one": false,
      "status": "available",
      "tags": []
-    }
-   }
-  },
-  "https://www.nyrr.org/races-and-events/2026/race-to-deliver-4m-to-benefit-gods-love-we-deliver-volunteers": {
-   "name": "Race to Deliver 4M to Benefit God's Love We Deliver - Volunteers",
-   "roles": {
-    "Bag Check": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal North": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Course Marshal South": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station North": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Fluid Station South": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Jump Team": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "NYRR Ambassador": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Post-Race Amenities": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Start and Finish": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
-    },
-    "Youth Event Assistant": {
-     "nine_one": true,
-     "status": "completed",
-     "tags": [
-      "9+1"
-     ]
     }
    }
   },
